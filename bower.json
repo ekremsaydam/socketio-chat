@@ -1,0 +1,22 @@
+{
+  "name": "socketio-chat",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ekremsaydam <30255407+ekremsaydam@users.noreply.github.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ekremsaydam/socketio-chat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.7.0",
+    "semantic": "^2.3.1",
+    "jquery": "^3.3.1"
+  }
+}
